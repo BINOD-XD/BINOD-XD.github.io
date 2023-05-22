@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "who we are";
 }
 .about .about-content .left{
     width: 45%;
@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what we provide";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "what we know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "who with us";
 }
 .teams .carousel .card{
     background: #222;
